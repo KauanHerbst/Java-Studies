@@ -1,0 +1,4 @@
+usuario1,tipo1,10
+usuario3,tipo3,30
+usuario2,tipo2,20
+usuario4,tipo4,40

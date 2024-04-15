@@ -1,0 +1,3 @@
+user1,tipo1,10
+user1,tipo2,20
+user2,tipo1,5
